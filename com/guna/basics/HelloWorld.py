@@ -10,3 +10,13 @@ print(name_age)
 age = 23
 data_type_of_age = type(age)
 print(data_type_of_age)
+
+# String Concatenation
+first_name = "Guna"
+last_name = "Sekhar"
+Str_concatenation = first_name + last_name
+print(Str_concatenation)
+
+# String Replication
+print_name_5_times = "Hello" * 5
+print(print_name_5_times)
