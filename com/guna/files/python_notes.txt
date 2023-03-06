@@ -1,0 +1,21 @@
+-	pip show selenium ( to check the selenium details)
+Command to show installed packages
+-	python –version or python –V ( to check python version)
+Command to check python version
+-	pip install selenium (Command to install selenium)
+Command to install selenium
+-	PIP is the standard package manager for the Python. It allows to install and manage additional packages that they are not a part of python standard library.
+What is PIP?
+•	Selenium can be coded in multiple languages  like python, java, JS, C# and Ruby
+•	Selenium works with multiple platforms windows, Mac
+•	Selenium works with Multiple browsers, chrome, safari and edge
+•	It is exclusively for web based applications
+•	Open Source automation tool
+Selenium Features?
+•	Python, Java, Ruby, JS, C# and etc.,
+•	Open source tool to automate web applications selenium can be coded in multiple languages
+Selenium Web Driver?
+•	More jobs, less competition
+•	World is moving towards AI and Machine Learning, and python plays a crucial role in implementing them.
+•	It is easy to learn and understand, simple to code
+Why Python for Automation Testing

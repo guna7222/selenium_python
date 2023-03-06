@@ -17,4 +17,4 @@ class Name:
 
 
 obj1 = Name(10, 22)
-print(obj1.addition())
+obj1.addition()
